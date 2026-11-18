@@ -1,10 +1,10 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kapil%20Wevhal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Cloud%20Explorer&descAlignY=60&descSize=18" width="100%" alt="Kapil Wevhal banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kapil%20Wevhal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20AI%20Infrastructure%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Kapil Wevhal banner"/>
 
 <a href="https://github.com/Kapil5474">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CF0&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kapil+%F0%9F%91%8B;CSE+Student+%7C+Builder+%7C+Problem+Solver;Building+AI-powered+%26+cloud-native+apps;Turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CF0&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kapil+%F0%9F%91%8B;CSE+Student+%7C+Builder+%7C+Problem+Solver;Building+GenAI+%26+AI+infrastructure;Turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,19 +22,20 @@
 ```js
 const kapil = {
   role: "Computer Science & Engineering Student",
-  location: "Kolhapur, Maharashtra, India 🇮🇳",
-  focus: ["Full-Stack Web Development", "Machine Learning", "Cloud Solutions"],
-  currentlyBuilding: ["AI Career Forecast", "Cloud Notes"],
-  currentlyLearning: ["System Design", "MLOps", "Advanced TypeScript"],
+  location: "Buldhana, Maharashtra, India 🇮🇳",
+  focus: ["Generative AI", "AI Infrastructure", "Full-Stack Development", "Cloud"],
+  currentlyBuilding: ["Kisan Mitra AI", "Opportunity-to-Action", "AI College Copilot", "AI Innovation OS", "CS.300"],
+  currentlyLearning: ["GenAI", "AI Infrastructure", "MLOps", "System Design"],
   openTo: ["Internships", "Open-source collaboration", "Hackathons"],
   funFact: "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
-- 🔭 Building AI-powered tools and cloud-native apps
+- 🔭 Building GenAI products and AI infrastructure
 - 🌱 Always learning, always shipping
 - 🤝 Open to collaborating on projects that solve real problems
-- ⚡ Ask me about React, Node.js, Python, or ML
+- ⚡ Ask me about GenAI, React, Node.js, Python, or ML
+- 🌐 Portfolio: **[kapil5474.github.io](https://kapil5474.github.io)**
 
 ---
 
@@ -60,7 +61,19 @@ const kapil = {
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Currently Building
+
+| Project | What it is |
+|---|---|
+| 🌾 **Kisan Mitra AI** | An AI assistant for farmers |
+| 🎯 **Opportunity-to-Action** | Turns opportunities into clear action plans |
+| 🎓 **AI College Copilot** | A study and campus assistant for students |
+| 🧠 **AI Innovation Operating System** | A workspace that takes ideas to prototypes |
+| 💻 **CS.300** | Computer science project in progress |
+
+---
+
+## 🚀 Earlier Projects
 
 <table>
   <tr>
@@ -150,9 +163,9 @@ A secure, cloud-hosted note-taking app for organizing, syncing, and accessing no
 <div align="center">
 
 <a href="https://github.com/Kapil5474"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/kapil-wevhal-98539140b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:wevhalkapil@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://kapil5474.github.io"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
